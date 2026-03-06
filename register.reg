@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.md\shell\ConvertToPDF]
+@="Convert to PDF"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.md\shell\ConvertToPDF\command]
+@="\"C:\\Program Files\\MD to PDF\\md2pdf.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.markdown\shell\ConvertToPDF]
+@="Convert to PDF"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.markdown\shell\ConvertToPDF\command]
+@="\"C:\\Program Files\\MD to PDF\\md2pdf.exe\" \"%1\""

@@ -1,0 +1,13 @@
+[project]
+entry = "md2pdf.py"
+name = "md2pdf"
+
+[build]
+mode = "portable"
+console = true
+
+[build.dependencies]
+auto = true
+
+[build.output]
+dir = "./dist"
