@@ -1,5 +1,5 @@
 Windows Registry Editor Version 5.00
 
-[-HKEY_CLASSES_ROOT\SystemFileAssociations\.md\shell\ConvertToPDF]
+[-HKEY_CURRENT_USER\Software\Classes\SystemFileAssociations\.md\shell\ConvertToPDF]
 
-[-HKEY_CLASSES_ROOT\SystemFileAssociations\.markdown\shell\ConvertToPDF]
+[-HKEY_CURRENT_USER\Software\Classes\SystemFileAssociations\.markdown\shell\ConvertToPDF]
